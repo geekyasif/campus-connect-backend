@@ -1,0 +1,26 @@
+Registration process
+    first_name
+    last_name
+    email
+    password
+    confirm password
+
+    Response
+    jwt token
+    user Details
+
+
+Sign in 
+email/username
+password
+
+Resonse
+jwt token 
+user Details
+
+
+
+
+
+
+
